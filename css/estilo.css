@@ -81,11 +81,6 @@
     color: black;
  }
  
- /*.site-subtitle {
-   font-style: italic;
-   border-right: .15em solid #0c0c0c;
-   animation: blink-caret .5s step-end infinite;
- }*/
 
  .site-title{   
     font-size: 3em;
@@ -94,7 +89,7 @@
   
   .site-subtitle {
     font-style: italic;
-   }
+  }
 
  
  .sobre,
@@ -118,7 +113,6 @@
       color: rgb(0, 0, 0);
       margin-bottom: 1.2em;
       font-size: 2em;
-      margin-top: 2em;
     }
 
     .sobre p{
@@ -152,7 +146,7 @@
         }
     }
     
-    .portfolio .grid {
+    /*.portfolio .grid {
       display: grid;
       gap: 2em;
     }
@@ -178,7 +172,7 @@
            align-content: center;
            justify-content: center;
         }
-    }
+    }*/
 
   
     .portfolio figure {
@@ -188,10 +182,10 @@
     }
 
     .img-portfolio {
-        height: 180px;
-        width: 240px;
-        margin-bottom: 1em;
-        margin-top: 2em;
+        height: 500px;
+        width: 500px;
+        /*margin-bottom: 1em;
+        margin-top: 2em;*/
         object-fit: cover;
         object-position: left bottom;
         /*border-radius: 0%;*/
