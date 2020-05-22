@@ -51,7 +51,7 @@ header{
 
 .menu a:active,
 .menu a:hover {
- background-color: rgb(128, 123, 124);
+ background-color: whitesmoke;
  color: whitesmoke;
 }
 
@@ -204,8 +204,8 @@ a:hover{
   }
 
   .img-portfolio {
-      height: 500px;
-      width: 500px;
+      height: 800px;
+      width: 800px;
       margin-bottom: 1em;
       margin-top: 2em;
       object-fit: cover;
@@ -214,7 +214,7 @@ a:hover{
       transition: transform 500ms;
   }
   
-  @media (min-width: 500px){
+  @media (min-width: 800px){
     .img-portfolio{
       height: 420px;
       width: 420px;
