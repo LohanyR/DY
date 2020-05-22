@@ -56,7 +56,6 @@ header{
 }
 
 .menu a{
-  padding: 10px 20px;
   display: block;
   transition: background-color 1s, color 1s;
   margin: 0.5em;
