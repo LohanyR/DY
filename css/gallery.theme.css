@@ -14,15 +14,18 @@
 .gallery {
   position: relative;
 }
+
 .gallery .item {
   overflow: hidden;
 }
+
 .gallery .controls {
   position: absolute;
   bottom: 0;
   width: 100%;
   text-align: center;
 }
+
 .gallery .control-button {
   display: inline-block;
   margin: 0 .02em;

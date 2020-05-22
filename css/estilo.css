@@ -23,7 +23,14 @@ header{
   height: 69vh;
   justify-content: center;
   align-items: center;
+}
 
+.icones{
+  background-color: transparent;
+  position: fixed;
+  margin-top: 3em;
+  margin-left: 1.5em;
+  font-size: 2em;
 }
 
 .menu {
@@ -174,7 +181,7 @@ a:hover{
   }
 
   
-  @media (min-width: 560px ) {
+  /*@media (min-width: 560px ) {
       .portfolio .grid {
          grid-template-columns: repeat(2, 240px);
       }
@@ -194,7 +201,7 @@ a:hover{
          align-content: center;
          justify-content: center;
       }
-  }
+  }*/
 
 
   .portfolio figure {
@@ -204,8 +211,8 @@ a:hover{
   }
 
   .img-portfolio {
-      height: 800px;
-      width: 800px;
+      height: 600px;
+      width: 600px;
       margin-bottom: 1em;
       margin-top: 2em;
       object-fit: cover;
@@ -213,24 +220,24 @@ a:hover{
       /*border-radius: 0%;*/
       transition: transform 500ms;
   }
-  
-  @media (min-width: 800px){
+
+  @media (min-width: 1200px){
     .img-portfolio{
       height: 420px;
       width: 420px;
     }
   }
   
-
   .contato .icons {
       text-align: center;
   
-    }
+  }
   
     .contato a {
-      font-size: 5em;
+      font-size: 3em;
       transition: text-shadow 1s;
     }
+
     
     .contato a:active,
     .contato a:hover {
