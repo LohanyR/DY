@@ -22,21 +22,21 @@ body{
   body {
      font-size: 18px;
     }
-  }
+}
 
 @media (min-width: 1200px ) {
       body {
          font-size: 20px;
        }
-  }
+}
 
 header{
-      display: flex;
-      height: 90vh;
-      justify-content: center;
-      align-items: center;
-      
-  }
+  display: flex;
+  height: 65vh;
+  justify-content: center;
+  align-items: center;
+
+}
 
 .menu {
  background-color: whitesmoke;
@@ -87,7 +87,7 @@ a:hover{
 .site-title{   
   font-size: 5em;
   font-family: 'Pacifico', cursive;
-  margin-top: 3em;
+  padding: 28px;
   
 }
 
@@ -115,7 +115,6 @@ a:hover{
 .sobre h2,
 .contato h2,
 .portfolio h2 {
-    font-size: 30px;
     color: rgb(0, 0, 0);
     margin-bottom: 1.2em;
     margin-top: 2em;
