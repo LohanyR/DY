@@ -28,9 +28,16 @@ header{
 .icones{
   background-color: transparent;
   position: fixed;
-  margin-top: 3em;
-  margin-left: 1.5em;
+  bottom:0;
+  margin-left: 23em; 
   font-size: 2em;
+}
+
+@media (min-width: 1200px ) {
+  .icones {
+    margin-left: 42em; 
+
+  }
 }
 
 .menu {
