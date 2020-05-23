@@ -28,7 +28,8 @@ header{
   background-color: transparent;
   position: fixed;
   bottom: 0;
-  margin-left: 23em; 
+  margin-left: 23em;
+  margin-bottom: 1.5em; 
   font-size: 2em;
 }
 
@@ -60,7 +61,7 @@ header{
   display: block;
   transition: background-color 1s, color 1s;
   margin: 1em;
-  font-family: 'Lilita One', cursive;
+  font-family: arial;
 }
 
 @media (min-width: 1200px ) {
@@ -126,7 +127,7 @@ a:hover{
 .site-subtitle {
   font-style: italic;
   font-size: 2.5em;
-  font-family: 'Lilita One', cursive;
+  font-family: 'Stardos Stencil', cursive;
   
 }
 
@@ -150,7 +151,7 @@ a:hover{
     margin-bottom: 1em;
     margin-top: 1em;
     font-size: 4em;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Stardos Stencil', cursive;
   }
 
   @media (min-width: 1200px ) {
