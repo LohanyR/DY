@@ -7,7 +7,7 @@
 body{
   background-image: url(https://cdn.pixabay.com/photo/2017/03/12/02/20/triangle-2136288_960_720.jpg);
   background-size: auto 100vh;
-  height: 69%;
+  height: 100%;
   background-position: center;
   font-size: 18px;
   
@@ -166,7 +166,7 @@ a:hover{
   .portfolio h2 {
     color: rgb(0, 0, 0);
     margin-bottom: 1em;
-    margin-top: 2em;
+    margin-top: em;
     font-size: 4em;
     font-family: 'Stardos Stencil', cursive;
   }
