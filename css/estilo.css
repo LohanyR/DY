@@ -150,7 +150,7 @@ a:hover{
 
 .sobre,
 .portfolio {
-  padding: 2em;
+  padding: 3em;
   min-height: 100vh;
 }
 
@@ -166,7 +166,7 @@ a:hover{
   .portfolio h2 {
     color: rgb(0, 0, 0);
     margin-bottom: 1em;
-    margin-top: 1em;
+    margin-top: em;
     font-size: 4em;
     font-family: 'Stardos Stencil', cursive;
   }
