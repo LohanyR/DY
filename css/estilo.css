@@ -29,9 +29,10 @@ body{
 
 header{
   display: flex;
+  height: 69zvh;
   justify-content: center;
   align-items: center;
-  margin-bottom: 5sem;
+  margin-bottom: 10em;
 }
 
 @media (min-height: 600px ) {
