@@ -29,7 +29,7 @@ body{
 
 header{
   display: flex;
-  height: 69zvh;
+  height: 60vh;
   justify-content: center;
   align-items: center;
   margin-bottom: 10em;
@@ -166,7 +166,7 @@ a:hover{
   .portfolio h2 {
     color: rgb(0, 0, 0);
     margin-bottom: 1em;
-    margin-top: em;
+    margin-top: 2em;
     font-size: 4em;
     font-family: 'Stardos Stencil', cursive;
   }
