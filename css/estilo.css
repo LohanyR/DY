@@ -31,7 +31,7 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10em;
+  margin-bottom: 5sem;
 }
 
 @media (min-height: 600px ) {
